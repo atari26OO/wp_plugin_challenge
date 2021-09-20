@@ -1,4 +1,4 @@
-Habit Challenge Plugin
+Worpress Challenge Plugin
 
 Shortcode Notation...
 [habit_challenge title="{title}"]
